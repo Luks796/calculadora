@@ -1,0 +1,38 @@
+[
+  {
+    "precio": 3500,
+    "id": 1,
+    "title": "Torta Among-us",
+    "thumbnailUrl": "https://truffle-assets.imgix.net/e9ac62f5-tropical-fault-line-cake-lc.jpg?auto=compress,format&fm=pjpg&w=1200"
+  },
+  {
+    "precio": 3300,
+    "id": 2,
+    "title": "Torta de Princesa",
+    "thumbnailUrl": "https://images.aws.nestle.recipes/original/e89d19d331ac413811e3b1c11a893991_torta-princesa.jpg"
+  },
+  {
+    "precio": 4100,
+    "id": 3,
+    "title": "Torta de Sirenas",
+    "thumbnailUrl": "https://d320djwtwnl5uo.cloudfront.net/recetas/share/torta_Wk8PuOpz1Jl6D3KARHjErity4YwfVm.png"
+  },
+  {
+    "precio": 3500,
+    "id": 4,
+    "title": "Torta de Cuborubik",
+    "thumbnailUrl": "https://t1.rg.ltmcdn.com/es/posts/8/7/4/torta_de_cumpleanos_para_diabeticos_62478_orig.jpg"
+  },
+  {
+    "precio": 1000,
+    "id": 5,
+    "title": "Torta PepaPig",
+    "thumbnailUrl": "https://vadetartas.com/wp-content/uploads/2021/06/receta-torta-golosinera.png"
+  },
+  {
+    "precio": 1500,
+    "id": 6,
+    "title": "Torta de león",
+    "thumbnailUrl": "https://www.cocinayvino.com/wp-content/uploads/2021/05/www.cocinayvino.com-torta-de-zanahoria-con-especias-y-glass-de-naranja-torta-de-zanahoria-e1622156596340.jpg"
+  }
+]
